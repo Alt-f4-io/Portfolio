@@ -11,8 +11,6 @@ export const Container = styled.div`
   padding-bottom: 0;
   z-index: 20;
   background-color: #0F1624;
-  position: fixed;
-  width: 100vw;
   
 
   @media ${(props) => props.theme.breakpoints.sm} {
